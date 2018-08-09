@@ -3,7 +3,7 @@ Image Classifier CNN Dogs vs Cats
 
 Image identification and classification using neural networks and machine learning.
 
-Dataset
+Dataset: 
 I have used the kaggle image dataset with 25k images of both cats and dogs to train a classification model built using tensorflow. It achieves around 84% accuracy. Further I have implemented data augmentation techniques to improve the accuracy to 88%. 
 
 Few important characteristics of the Convolutional Neural Network model used to solve this problem are.. 
