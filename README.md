@@ -14,7 +14,7 @@ Dataset Division ( 95% Training set, 2.5% Validation set, 2.5% Test set)
 > ReLu activation being used in between the 2 fully connected layers in the end.
 > I have Augmented original dataset by generating linear transformations of images of cats and dogs to increase training data.
 > I have developed this model just using tensorflow( without high level libraries like keras). 
- Architecture of the Convolutional Neural Network Classification Model is pictorially represented using an image in repository 
+ Architecture of the Convolutional Neural Network Classification Model is represented using an image in repository 
  
  Performance and Visualization using TensorBoard: Image in repository
  
